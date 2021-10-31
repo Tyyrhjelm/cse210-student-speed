@@ -42,3 +42,4 @@ root                    (project root folder)
 ---
 * # TODO: Add names and emails here
 Jennifer Clark jennifer.c.schultz@gmail.com
+Kevin Espinoza robert.kevin.espinoza@gmail.com
